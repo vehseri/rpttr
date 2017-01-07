@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">Rpttr</string>
     <string name="login">войти как</string>
-    <string name="pupil">ученик</string>
     <string name="teacher">учитель</string>
+    <string name="pupil">ученик</string>
 </resources>
