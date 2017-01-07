@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Rpttr</string>
-    <string name="login">Войти как</string>
+    <string name="login">войти как</string>
     <string name="pupil">ученик</string>
     <string name="teacher">учитель</string>
 </resources>

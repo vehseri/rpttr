@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Rpttr</string>
-    <string name="login">Login as..</string>
-    <string name="teacher">Учитель</string>
+    <string name="login">login as..</string>
+    <string name="teacher">teacher</string>
+    <string name="pupil">pupil</string>
 </resources>
