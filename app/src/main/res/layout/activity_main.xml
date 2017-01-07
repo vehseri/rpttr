@@ -9,30 +9,19 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.vehseri.rpttr.MainActivity">
+    tools:context="com.vehseri.rpttr.MainActivity"
+    android:weightSum="1">
 
     <TextView
         android:id="@+id/textLoginAs"
         android:text="@string/login"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingBottom="@dimen/paddingBottom"
-        android:paddingTop="@dimen/paddingTop"
-        android:layout_gravity="center_horizontal"/>
+        style="@style/TextAndButton" />
     <Button
         android:id="@+id/buttonAsTeacher"
         android:text="@string/teacher"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingBottom="@dimen/paddingBottom"
-        android:paddingTop="@dimen/paddingTop"
-        android:layout_gravity="center_horizontal"/>
+        style="@style/TextAndButton" />
     <Button
         android:id="@+id/buttonAsPupil"
         android:text="@string/pupil"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingBottom="@dimen/paddingBottom"
-        android:paddingTop="@dimen/paddingTop"
-        android:layout_gravity="center_horizontal"/>
+        style="@style/TextAndButton" />
 </LinearLayout>
